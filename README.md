@@ -44,8 +44,9 @@ uygulama.zip dosyasını indirip speech to text adlı uygulama dosyasına tıkla
 - Bu proje, **Vosk konuşma tanıma motorunu** kullanarak oluşturulmuştur.
 - Bu proje **C# Windows Forms / WPF** ile geliştirilmiştir.
 - Kullanılan kütüphaneler:
-  - NAudio (ses kaydı için)
-  - System.Speech (speech recognition)
-
+  - NAudio (Ses Girişi Yönetimi.)
+  - Vosk (Konuşma Tanıma Motoru.)
+  - Newtonsoft.Json(JSON Ayrıştırma.)
+  
 ---
 
