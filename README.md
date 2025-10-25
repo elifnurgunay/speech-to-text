@@ -1,4 +1,4 @@
-# Speech-to-Text Uygulaması
+# Speech-to-Text Uygulaması Türkçe Dinleme Versiyonu
 <img width="1919" height="1020" alt="Ekran görüntüsü 2025-10-24 165001" src="https://github.com/user-attachments/assets/f1898dfe-6c2f-43f8-b2bf-8121e0b103db" />
 
 
